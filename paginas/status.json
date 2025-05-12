@@ -1,0 +1,9 @@
+{
+    "_comment": "Este arquivo armazena as casas disponveis digita no telegram",
+    "casas_disponiveis": [
+        1,
+        2,
+        4,
+        3
+    ]
+}
